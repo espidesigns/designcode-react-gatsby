@@ -38,7 +38,8 @@ const SectionLogo = styled.img`
 
 const SectionTitleGroup = styled.div`
   max-width: 800px;
-  margin: 0 40px;
+  margin: 0 auto;
+  padding: 0 20px;
   display: grid;
   grid-gap: 20px;
   grid-template-columns: 300px auto;
